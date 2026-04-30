@@ -43,7 +43,7 @@ you are encouraged to contribute, share insights, and collaborate with fellow en
 > If your project doesn't belong to GitHub orgs controlled by Red Hat, refer to a CoC violation complaint raising mechanism relevant to your project.
 > If your project has its own AI policy, please refer to it in this section instead of the one below.
 
-This project follows:
+This project abides by the following policies:
 
 * [Ansible Code of Conduct](https://docs.ansible.com/projects/ansible/devel/community/code_of_conduct.html)
 * [Ansible Community Policy for AI-Assisted Contributions](https://docs.ansible.com/projects/ansible/devel/community/ai_policy.html)
