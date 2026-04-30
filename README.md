@@ -46,7 +46,7 @@ you are encouraged to contribute, share insights, and collaborate with fellow en
 This project follows:
 
 * [Ansible Code of Conduct](https://docs.ansible.com/projects/ansible/devel/community/code_of_conduct.html)
-* The [Ansible Community Policy for AI-Assisted Contributions](https://docs.ansible.com/projects/ansible/devel/community/ai_policy.html).
+* [Ansible Community Policy for AI-Assisted Contributions](https://docs.ansible.com/projects/ansible/devel/community/ai_policy.html)
 
 ## Communication
 
